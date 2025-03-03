@@ -1,3 +1,5 @@
+# Asteroids Game
+
 Another guided project by [Boot.dev](https://www.boot.dev). Simple Asteroid game using WASD to move and rotate an asteroid and SPACEBAR to shoot bullets at asteroids.
 run using python3 main.py
 
